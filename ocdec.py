@@ -1,4 +1,4 @@
-#CONVERSOR OCTAL
+#CONVERSOR OCTAL A DECIMAL
 oc = '14'
 pos = len(oc) - 1
 nd = 0
