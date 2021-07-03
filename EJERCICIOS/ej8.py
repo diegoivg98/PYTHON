@@ -1,3 +1,10 @@
+#TIENE 2 OPCIONES, CADA VEZ QUE ESCOGA 1 TENDRA QUE INGRESAR NUMEROS, SI INGRESA 2 LE DEVUELVE:
+#la cantidad de numeros ingresados
+#la sumatoria de los numeros 
+#el promedio de los numeros
+#la cantidad de 7 
+#la cantidad de 80
+#total de numeros ingresados mayor a 500 
 print("1-ingresar numero")
 print("2-salir")
 print()
