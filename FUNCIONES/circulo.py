@@ -1,6 +1,6 @@
+import math
 def area_circulo(radio):
-	pi = 3.1415
-	return pi*radio**2
+	print(float(math.pi * (r**2)))
 
 def volumen_cilindro(radio,alto):
 	return area_circulo(radio)*alto
