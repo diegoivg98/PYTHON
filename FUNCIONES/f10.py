@@ -22,12 +22,6 @@ def calc(x,y,z):
 		r2="NO"
 		return r2
 
-		
- 		
-
-
-
-
 if __name__=="__main__":
     main()
     msvcrt.getch()
