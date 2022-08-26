@@ -1,7 +1,5 @@
 import msvcrt
 def main():
-
-
     a = input("Ingrese un si o no: ")
     r=calc(a)
     print(r)
@@ -16,7 +14,6 @@ def calc(n):
 		#NO CUMPLE
 		n="INCORRECTO"
 		return n
-
 
 if __name__=="__main__":
     main()
